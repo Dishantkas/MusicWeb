@@ -26,3 +26,14 @@ nav{
     background-size: contain;
     border-radius: 50%;
 }
+.background{
+    width: 1000px;
+    height: 600px;
+    background-color: rgb(98, 98, 98);
+    color: aliceblue;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 5% auto;
+    border-radius: 2%;
+}
